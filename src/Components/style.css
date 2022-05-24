@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box; 
+}
+
+body{
+    background: linear-gradient(to right,#000428,#004e92);
+}
+
+#navbarNavDropdown{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-link{
+    font-size: 25px;
+}
+
+
+th{
+    font-size: 23px;
+}
+
+.add_student{
+    width: 150px;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: black;
+    color: wheat;
+    border: 5px solid yellow;
+    margin: 20px;
+    margin-left: 1200px;
+}
